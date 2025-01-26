@@ -5,15 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirthmodi" alt="tirthmodi" /></a> </p>
 
-- 🔭 I’m currently working on **I am currently focusing on Data Structures and Algorithms (DSA) and Competitive Programming (CP) to enhance my problem-solving skills and algorithmic thinking.**
+## 🔭 I’m currently working on
+  **I am currently focusing on Data Structures and Algorithms (DSA) and Competitive Programming (CP) to enhance my problem-solving skills and algorithmic thinking.**
 
-- 🌱 I’m currently learning **I am currently a pre-final year B.Tech student at DA-IICT, specializing in Information and Communication Technology with Computational Science (ICT+CS).**
+## 🌱 I’m currently learning
+  **I am currently a pre-final year B.Tech student at DA-IICT, specializing in Information and Communication Technology with Computational Science (ICT+CS).**
 
-- 💬 Ask me about **I am fluent in C, C++, Python, SQL, HTML, and CSS, with a strong grasp of Data Structures and Algorithms (DSA) and Competitive Programming (CP). Feel free to ask me about coding, problem-solving, or anything tech-related! 🚀**
+## 💬 Ask me about
+  **I am fluent in C, C++, Python, SQL, HTML, and CSS, with a strong grasp of Data Structures and Algorithms (DSA) and Competitive Programming (CP). Feel free to ask me about coding, problem-solving, or anything   tech-related! 🚀**
 
-- 📫 How to reach me **202201513@daiict.ac.in**
+## 📫 How to reach me
+  **202201513@daiict.ac.in**
 
-- ⚡ Fun fact **I believe I'm funny—whether my code agrees is a different story! 😆**
+### ⚡ Fun fact
+  **I believe I'm funny—whether my code agrees is a different story! 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
