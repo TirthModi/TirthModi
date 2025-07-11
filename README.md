@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tirth Modi</h1>
-<h3 align="center">🚀 PreFinal Year @DAIICT and Passionate Problem Solver from Gujarat, India</h3>
+<h3 align="center">🚀 Final Year @DAU and Passionate Problem Solver from Gujarat, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirthmodi&label=Profile%20views&color=0e75b6&style=flat" alt="tirthmodi" /> </p>
 
