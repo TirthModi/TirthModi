@@ -9,7 +9,7 @@
   **I am currently focusing on Data Structures and Algorithms (DSA) and Competitive Programming (CP) to enhance my problem-solving skills and algorithmic thinking.**
 
 ## 🌱 I’m currently learning
-  **I am currently a pre-final year B.Tech student at DA-IICT, specializing in Information and Communication Technology with Computational Science (ICT+CS).**
+  **I am currently a final year B.Tech student at DA-IICT, specializing in Information and Communication Technology with Computational Science (ICT+CS).**
 
 ## 💬 Ask me about
   **I am fluent in C, C++, Python, SQL, HTML, and CSS, with a strong grasp of Data Structures and Algorithms (DSA) and Competitive Programming (CP). Feel free to ask me about coding, problem-solving, or anything   tech-related! 🚀**
